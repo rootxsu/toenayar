@@ -1,15 +1,15 @@
 {
   "app": {
     "status": true,
-    "toolbar": true,
-    "navigation_drawer": true,
-    "geolocation": true,
+    "toolbar": false,
+    "navigation_drawer": false,
+    "geolocation": false,
     "cache": true,
     "open_link_in_external_browser": false,
     "zoom_controls": false,
     "user_agent": "",
-    "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
+    "privacy_policy_url": "https://mmtoenayar.com/",
+    "more_apps_url": "https://mmtoenayar.com/",
     "redirect_url": ""
   },
   "intro": {
@@ -46,8 +46,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
+      "url": "https://mmtoenayar.com",
+      "url_dark": "https://mmtoenayar.com"
     },
     {
       "name": "Portfolio",
