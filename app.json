@@ -1,19 +1,19 @@
 {
   "app": {
     "status": true,
-    "toolbar": false,
-    "navigation_drawer": false,
-    "geolocation": false,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "geolocation": true,
     "cache": true,
     "open_link_in_external_browser": false,
     "zoom_controls": false,
     "user_agent": "",
-    "privacy_policy_url": "",
-    "more_apps_url": "",
+    "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
     "redirect_url": ""
   },
   "intro": {
-    "status": false,
+    "status": true,
     "sliders": [
       {
         "title": "Welcome to WebDroid",
@@ -46,40 +46,40 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://mmtoenayar.com/",
-      "url_dark": "https://mmtoenayar.com/"
+      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
+      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
     },
     {
       "name": "Portfolio",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://mmtoenayar.com/",
-      "url_dark": "https://mmtoenayar.com/"
+      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
+      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
     },
     {
       "name": "Testimonials",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://mmtoenayar.com/",
-      "url_dark": "https://mmtoenayar.com/"
+      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
+      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
     },
     {
       "name": "Contact us",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://mmtoenayar.com/",
-      "url_dark": "https://mmtoenayar.com/"
+      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
+      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
     },
     {
       "name": "Privacy Policy",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "https://mmtoenayar.com/",
-      "url_dark": "https://mmtoenayar.com/"
+      "url": "privacy_policy.html",
+      "url_dark": "privacy_policy_dark.html"
     }
   ],
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
